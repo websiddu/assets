@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="575 -3.4 797.3 399.9" enable-background="new 575 -3.4 797.3 399.9" xml:space="preserve">
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="25.0448" y1="203.4" x2="825.0448" y2="203.4" gradientTransform="matrix(1 0 0 -1 550 400)">
+		<stop  offset="0" style="stop-color:#E9573F"/>
+		<stop  offset="1" style="stop-color:#FC8851"/>
+	</linearGradient>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="24.5448" y1="203.4" x2="825.5448" y2="203.4" gradientTransform="matrix(1 0 0 -1 550 400)">
+		<stop  offset="0" style="stop-color:#D31D50"/>
+		<stop  offset="1" style="stop-color:#F5F4B9"/>
+	</linearGradient>
+	<rect x="575" y="-3.4" fill="url(#SVGID_1_)" stroke="url(#SVGID_2_)" width="800" height="400"/>
+	<path opacity="0.35" fill="none" stroke="#CFCFCF" stroke-width="0.5" enable-background="new    " d="M577.7,396.8h794.5"/>
+	<ellipse opacity="0.35" fill="#71C73E" stroke="#FFFFFF" enable-background="new    " cx="577.7" cy="332.7" rx="7.3" ry="6.6"/>
+	<g id="Your_Icon">
+		<g>
+			<path fill="#FFFFFF" d="M960.6,191c-13.3-8.5-43.2-10.6-43.2-10.6s-16.1-13.3-31.1-19.9s-29-4.7-46.8-1.9
+				c-17.8,2.7-30.7,15.5-38.1,20.3c-7.4,4.9-18.8,4.7-18.8,4.7V219h6.6c0,0,3.8-19.7,21.4-19.7c17.6,0,21.8,19.7,21.8,19.7h78.4
+				c0,0,0.8-19.7,20.5-19.7s22.5,19.7,22.5,19.7h16.9C970.6,218.9,974,199.4,960.6,191z M849.4,184.2h-30.9
+				c3.1-19.1,30.9-19.7,30.9-19.7V184.2z M857.5,184.2v-21c27.1-1.9,48.1,21,48.1,21H857.5z"/>
+			<path fill="#FFFFFF" d="M810.4,206.2c-8.3,0-15,6.7-15,15s6.7,15,15,15s15-6.7,15-15C825.5,212.9,818.7,206.2,810.4,206.2z
+				 M810.4,227.7c-3.6,0-6.4-2.9-6.4-6.4c0-3.6,2.9-6.4,6.4-6.4s6.4,2.9,6.4,6.4C816.9,224.8,814,227.7,810.4,227.7z"/>
+			<path fill="#FFFFFF" d="M932.1,206.2c-8.3,0-15,6.7-15,15s6.7,15,15,15s15-6.7,15-15S940.4,206.2,932.1,206.2z M932.1,227.7
+				c-3.5,0-6.4-2.9-6.4-6.4c0-3.6,2.9-6.4,6.4-6.4c3.6,0,6.4,2.9,6.4,6.4S935.6,227.7,932.1,227.7z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M994.5,218.9h16.9c0,0,2.8-19.7,22.5-19.7c19.7,0,20.6,19.7,20.6,19.7h78.4c0,0,4.2-19.7,21.8-19.7
+				s21.4,19.7,21.4,19.7h6.6v-35.4c0,0-11.4,0.2-18.8-4.7c-7.4-4.9-20.3-17.6-38.1-20.3c-17.8-2.8-31.8-4.7-46.8,1.9
+				s-31.1,19.9-31.1,19.9s-29.9,2.1-43.2,10.6C991.1,199.4,994.5,218.9,994.5,218.9z M1115.7,164.5c0,0,27.8,0.6,30.9,19.7h-30.9
+				V164.5z M1059.6,184.2c0,0,21-22.9,48.1-21v21H1059.6z"/>
+			<path fill="#FFFFFF" d="M1139.6,221.2c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15s-6.7-15-15-15
+				C1146.4,206.2,1139.6,212.9,1139.6,221.2z M1148.2,221.2c0-3.6,2.9-6.4,6.4-6.4c3.6,0,6.4,2.9,6.4,6.4c0,3.6-2.9,6.4-6.4,6.4
+				C1151.1,227.7,1148.2,224.8,1148.2,221.2z"/>
+			<path fill="#FFFFFF" d="M1018,221.2c0,8.3,6.7,15,15,15c8.3,0,15-6.7,15-15s-6.7-15-15-15C1024.7,206.2,1018,212.9,1018,221.2z
+				 M1026.6,221.2c0-3.6,2.9-6.4,6.4-6.4s6.4,2.9,6.4,6.4c0,3.6-2.9,6.4-6.4,6.4S1026.6,224.8,1026.6,221.2z"/>
+		</g>
+		<g>
+			<path fill="#FFFFFF" d="M999.9,168.7l18.1-10.3l-20.8,0.1l10.5-18l-18,10.5l0.1-20.9l-10.3,18.1l-10.3-18.1l0.1,20.8l-18-10.5
+				l10.5,18l-20.9-0.1l18.1,10.3l-18.1,10.3h9.4c3.6-2.9,8.2-5.3,13.4-6.9l5.9-3.4l-8.7-4.9l10,0.1l-5-8.6l8.6,5v-10l4.9,8.7
+				l4.9-8.7l-0.1,10l8.6-5l-5,8.6l10-0.1l-8.7,5l8.6,4.9c3.5,1.4,6.6,3.3,9.2,5.4l11,0.1L999.9,168.7z"/>
+		</g>
+	</g>
+	<path opacity="0.35" fill="#A5CCD5" fill-opacity="0.3" enable-background="new    " d="M577.7,396.8
+		c22.2-13.8,66.6-49.2,88.8-55.1c22.2-5.9,66.6,11.7,88.8,7.8c22-3.9,65.9-39.3,87.9-39.1c21.7,0.2,65.2,42.5,86.9,40.4
+		c22.2-2.1,66.6-51.5,88.8-57.2c22.2-5.7,66.6,17,88.8,12c22-5,65.9-50.2,87.9-52.2s65.9,35.4,87.9,36.2
+		c22.2,0.8,66.6-22.6,88.8-30.1v137.3L577.7,396.8L577.7,396.8z"/>
+	<path opacity="0.35" fill="none" stroke="#77B7C5" stroke-width="2" enable-background="new    " d="M577.7,396.8
+		c22.2-13.8,66.6-49.2,88.8-55.1c22.2-5.9,66.6,11.7,88.8,7.8c22-3.9,65.9-39.3,87.9-39.1c21.7,0.2,65.2,42.5,86.9,40.4
+		c22.2-2.1,66.6-51.5,88.8-57.2c22.2-5.7,66.6,17,88.8,12c22-5,65.9-50.2,87.9-52.2s65.9,35.4,87.9,36.2
+		c22.2,0.8,66.6-22.6,88.8-30.1"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="577.7" cy="396.8" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="666.5" cy="341.7" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="755.3" cy="349.5" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="843.2" cy="310.4" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="930.1" cy="350.8" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="1018.9" cy="293.7" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="1107.7" cy="305.6" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="1195.6" cy="253.4" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="1283.5" cy="289.6" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#77B7C5" stroke="#FFFFFF" enable-background="new    " cx="1372.2" cy="259.5" rx="7.3" ry="6.6"/>
+	<path opacity="0.35" fill="#FFCC00" fill-opacity="0.38" enable-background="new    " d="M577.7,333c22.2,1.2,66.6,4.5,88.8,4.9
+		s66.6,8.4,88.8-1.4c22-9.7,65.9-77.2,87.9-76.6c21.7,0.6,65.2,70.3,86.9,81.6c22.2,11.6,66.6,7.8,88.8,9.9c22.2,2.1,66.6,17,88.8,7
+		c22-9.8,65.9-84.9,87.9-86.2s65.9,65.5,87.9,75.6c22.2,10.2,66.6,4.3,88.8,5.7v43H577.7V333z"/>
+	<path opacity="0.35" fill="none" stroke="#FFFF00" stroke-width="2" stroke-opacity="0.66" enable-background="new    " d="
+		M577.7,333.2c22.2,1.2,66.6,4.5,88.8,4.9s66.6,8.4,88.8-1.4c22-9.7,65.9-77.2,87.9-76.6c21.7,0.6,65.2,70.3,86.9,81.6
+		c22.2,11.6,66.6,7.8,88.8,9.9c22.2,2.1,66.6,17,88.8,7c22-9.8,65.9-84.9,87.9-86.2s65.9,65.5,87.9,75.6
+		c22.2,10.2,66.6,4.3,88.8,5.7"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="577.7" cy="333.2" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="666.5" cy="338.2" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="755.3" cy="336.7" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="843.2" cy="260.1" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="930.1" cy="341.7" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="1018.9" cy="351.6" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="1107.7" cy="358.6" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="1195.6" cy="272.5" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="1283.5" cy="348.1" rx="7.3" ry="6.6"/>
+	<ellipse opacity="0.35" fill="#FFCC66" stroke="#FFFFFF" enable-background="new    " cx="1372.2" cy="353.8" rx="7.3" ry="6.6"/>
+</g>
+</svg>

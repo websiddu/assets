@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="36.8 326.9 288 144" enable-background="new 36.8 326.9 288 144" xml:space="preserve">
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="48.1046" y1="-127.0065" x2="1093.8562" y2="-127.0065" gradientTransform="matrix(0.2754 0 0 0.2754 23.552 433.8776)">
+	<stop  offset="0" style="stop-color:#884A9D"/>
+	<stop  offset="1" style="stop-color:#AD7CB6"/>
+</linearGradient>
+<rect x="36.8" y="326.9" fill="url(#SVGID_1_)" width="288" height="144"/>
+<g>
+	<path fill="#FCFCFC" d="M207.3,408.8h-12.9c-1.9,0-3.5-1.6-3.5-3.5v-12.9c0-1.9,1.6-3.5,3.5-3.5h12.9c1.9,0,3.5,1.6,3.5,3.5v12.9
+		C210.7,407.3,209.2,408.8,207.3,408.8z"/>
+	<path fill="#FCFCFC" d="M240.7,408.8L240.7,408.8c-5.5,0-9.9-4.5-9.9-9.9v0c0-5.5,4.5-9.9,9.9-9.9h0c5.5,0,9.9,4.5,9.9,9.9v0
+		C250.6,404.4,246.2,408.8,240.7,408.8z"/>
+	<rect x="151" y="389" fill="#FCFCFC" width="19.9" height="19.9"/>
+	<polygon fill="#FCFCFC" points="130.9,408.8 111,408.8 120.9,389 120.9,389 	"/>
+</g>
+</svg>
